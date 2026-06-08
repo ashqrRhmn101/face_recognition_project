@@ -1,0 +1,23 @@
+{
+  "ara2": {
+    "name": "ashiqur",
+    "age": "25",
+    "relation": "me",
+    "profession": "s",
+    "note": ""
+  },
+  "rabbi_1": {
+    "name": "Rabbi",
+    "age": "12",
+    "relation": "vatija",
+    "profession": "student",
+    "note": "cool boy"
+  },
+  "moriom_1": {
+    "name": "Mst. Moriom Khatun",
+    "age": "11",
+    "relation": "Vatiji",
+    "profession": "student",
+    "note": ""
+  }
+}
