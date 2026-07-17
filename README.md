@@ -1,3 +1,5 @@
+<img width="952" height="493" alt="Screenshot 2026-06-08 174957" src="https://github.com/user-attachments/assets/45635226-b99c-4f7f-b8df-14bf9db8f285" />
+
 # Face Recognition System — ব্যবহার গাইড
 
 ## ফাইল কাঠামো
